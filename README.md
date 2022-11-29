@@ -1,2 +1,2 @@
 My first readme
-This is just an update
+This is an update
